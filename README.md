@@ -1,3 +1,3 @@
 # Getting Started with Git
 
-Conflict testing
+I don't like this
